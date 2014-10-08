@@ -1,0 +1,7 @@
+# git ignore file
+matlab_compiler\MatlabCompilerCPPExample\MatlabCompilerCPPExample.v11.suo
+matlab_compiler\MatlabCompilerCPPExample\MatlabCompilerCPPExample\MatlabCompilerCPPExample.vcxproj.user
+matlab_compiler\MatlabCompilerCPPExample\MatlabCompilerSampleClass\MatlabCompilerSampleClass.vcxproj.user
+/matlab_compiler/MatlabCompilerCPPExample/*.sdf
+/matlab_compiler/MatlabCompilerCPPExample/*.suo
+*.log
